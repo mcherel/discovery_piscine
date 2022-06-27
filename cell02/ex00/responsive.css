@@ -1,0 +1,27 @@
+hr {
+    color: silver;
+  }
+
+div {
+    text-align: left;
+}
+
+table {
+    width: 100%; 
+    border-collapse: collapse;
+}
+
+tr {
+    background-color:pink;
+    width: 50%;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+
+#green {
+    background-color:greenyellow;
+}
+
+tr {
+    height: 100px;
+}

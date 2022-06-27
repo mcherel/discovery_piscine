@@ -1,0 +1,11 @@
+body {
+    background-color: blanchedalmond;
+}
+
+table{
+    background-color: aliceblue;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 500px;
+    border: 2px;
+}
